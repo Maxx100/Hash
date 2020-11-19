@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="Empty">
+    <file>atlases/empty_anml.jpg</file>
+    <file>atlases/money_bar.jpg</file>
+    <file>atlases/health_bar.jpg</file>
+    <file>atlases/empty_arms.jpg</file>
+    <file>atlases/empty_defs.jpg</file>
+    <file>atlases/empty_foot.jpg</file>
+    <file>atlases/empty_head.jpg</file>
+    <file>atlases/empty_legs.jpg</file>
+    <file>atlases/empty_weap.jpg</file>
+    <file>atlases/background — копия — копия.jpg</file>
+    <file>atlases/Пустой слот.jpg</file>
+  </qresource>
+  <qresource prefix="icos">
+    <file>avatar/char1/1.jpg</file>
+    <file>avatar/char2/1.jpg</file>
+    <file>avatar/char3/1.jpg</file>
+  </qresource>
+</RCC>
